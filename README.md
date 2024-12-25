@@ -52,8 +52,6 @@
 
 ### Ответ
 
----
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. ![filebeat](https://github.com/Takarigua/sdb-homeworks11-03/blob/34cd8d475c2e5e482a2032bdd1bcb634f5702a49/img/filebeat.png)
 
 
